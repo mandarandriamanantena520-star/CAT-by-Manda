@@ -1,0 +1,24 @@
+{
+  "name": "CAT-System — Henri Fraise Fils & Cie",
+  "short_name": "CAT-System",
+  "description": "Calendrier + CAT-System • Mahanoro",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F4F5F7",
+  "theme_color": "#FFCC11",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%23111318'/%3E%3Ctext x='256' y='336' font-family='Arial,sans-serif' font-size='220' font-weight='900' fill='%23FFCC11' text-anchor='middle'%3ECAT%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%23111318'/%3E%3Ctext x='256' y='336' font-family='Arial,sans-serif' font-size='220' font-weight='900' fill='%23FFCC11' text-anchor='middle'%3ECAT%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
